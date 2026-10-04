@@ -39,7 +39,6 @@ apis:
   - name: GrünstromIndex
     description: "Green Power Index for Germany (Grünstromindex/GSI)"
     humanURL: https://gruenstromindex.de/
-    baseURL: https://gruenstromindex.de/
     tags:
       - Environment
     properties:
